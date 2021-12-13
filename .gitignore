@@ -1,0 +1,4 @@
+.DS_Store
+.vscode
+1-Terraform/terraform/.terraform.lock.hcl
+1-Terraform/terraform/.terraform/*
